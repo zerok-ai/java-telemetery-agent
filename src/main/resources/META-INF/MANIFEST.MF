@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Main-Class: src.main.CourseApiApp
+Class-Path: jakarta.activation-2.0.1.jar hibernate-core-5.4.3.Final.jar 
+ protobuf-java-3.19.4.jar javax.persistence-api-2.2.jar jakarta.inject-a
+ pi-2.0.0.jar spring-core-6.0.2.jar opentelemetry-sdk-1.5.0.jar jboss-lo
+ gging-3.4.3.Final.jar tomcat-embed-el-10.1.1.jar spring-jdbc-6.0.2.jar 
+ spring-expression-6.0.2.jar opentelemetry-api-metrics-1.5.0-alpha.jar j
+ axb-runtime-3.0.2.jar mysql-connector-j-8.0.31.jar jaxb-api-2.3.1.jar s
+ pring-boot-autoconfigure-3.0.0.jar hibernate-commons-annotations-6.0.2.
+ Final.jar txw2-3.0.2.jar istack-commons-runtime-4.0.1.jar jboss-transac
+ tion-api_1.2_spec-1.1.1.Final.jar spring-tx-6.0.0.jar spring-webmvc-6.0
+ .2.jar spring-boot-starter-3.0.0.jar jackson-datatype-jdk8-2.14.1.jar s
+ pring-web-6.0.2.jar opentelemetry-sdk-common-1.5.0.jar logback-classic-
+ 1.4.5.jar checker-compat-qual-2.5.5.jar antlr4-runtime-4.10.1.jar dom4j
+ -2.1.1.jar aspectjweaver-1.9.9.1.jar spring-data-commons-3.0.0.jar spri
+ ng-aspects-6.0.2.jar jackson-databind-2.14.1.jar log4j-to-slf4j-2.16.0.
+ jar jackson-core-2.14.1.jar jandex-2.4.2.Final.jar spring-data-jpa-3.0.
+ 0.jar micrometer-observation-1.10.0.jar classmate-1.5.1.jar opencensus-
+ api-0.28.3.jar logback-core-1.4.5.jar spring-boot-starter-json-3.0.0.ja
+ r jackson-annotations-2.14.1.jar spring-beans-6.0.2.jar spring-boot-sta
+ rter-tomcat-3.0.0.jar spring-boot-starter-jdbc-3.0.0.jar log4j-api-2.16
+ .0.jar spring-orm-6.0.0.jar tomcat-embed-websocket-10.1.1.jar jsr305-3.
+ 0.2.jar HikariCP-5.0.1.jar j2objc-annotations-1.3.jar javassist-3.24.0-
+ GA.jar micrometer-commons-1.10.0.jar byte-buddy-1.12.18.jar error_prone
+ _annotations-2.3.4.jar snakeyaml-1.33.jar jackson-datatype-jsr310-2.14.
+ 1.jar listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar ju
+ l-to-slf4j-2.0.4.jar spring-boot-starter-web-3.0.0.jar spring-boot-3.0.
+ 0.jar opentelemetry-sdk-trace-1.5.0.jar spring-jcl-6.0.2.jar hibernate-
+ core-6.1.5.Final.jar antlr-2.7.7.jar opencensus-impl-0.28.3.jar opentel
+ emetry-context-1.5.0.jar opentelemetry-semconv-1.5.0-alpha.jar spring-a
+ op-6.0.2.jar opencensus-impl-core-0.28.3.jar guava-29.0-android.jar spr
+ ing-boot-starter-aop-3.0.0.jar slf4j-api-2.0.2.jar sqlcommenter-2.0.1.j
+ ar jakarta.transaction-api-2.0.0.jar jackson-module-parameter-names-2.1
+ 4.1.jar javax.activation-api-1.2.0.jar jaxb-core-3.0.2.jar spring-boot-
+ starter-logging-3.0.0.jar disruptor-3.4.2.jar grpc-context-1.27.2.jar o
+ pentelemetry-api-1.5.0.jar tomcat-embed-core-10.1.1.jar spring-context-
+ 6.0.2.jar jakarta.annotation-api-2.1.1.jar failureaccess-1.0.1.jar spri
+ ng-boot-starter-data-jpa-3.0.0.jar jakarta.persistence-api-3.0.0.jar ja
+ karta.xml.bind-api-3.0.1.jar
+
